@@ -70,7 +70,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/JoaoFranco03/photography-portfolio)
 
-This project is a web-based portfolio that beautifully showcases the photography work of Sophia Williams, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
+This project is a web-based portfolio that beautifully showcases the photography work of Cloudy Cuddles, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +136,7 @@ Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-João Franco - https://www.linkedin.com/in/joão-franco-452161195/
+Cloudy Cuddles - https://www.cloudycuddles.com/
 
 Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://github.com/JoaoFranco03/photography-portfolio/)
 
@@ -173,5 +173,5 @@ Project Link: [https://github.com/JoaoFranco03/photography-portfolio/](https://g
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [license-url]: https://github.com/JoaoFranco03/photography-portfolio/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/joão-franco-452161195/
+[linkedin-url]: https://www.cloudycuddles.com/
 [product-screenshot]: dist/assets/mockup.png
